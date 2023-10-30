@@ -112,7 +112,7 @@ title: web
 title: Hanlin Cai
 url: https://caihanlin.com
 
-owner: 
+owner: touxiang(1).jpg
   name: Hanlin Cai
   avatar: hanlin.jpg (root/image目录下的图片，纠正)
   email: hanlin.cai@ieee.org
